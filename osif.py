@@ -84,8 +84,9 @@ def show_program():
 
     https://www.youtube.com/c/CyserInc
 
-* if you find any errors or problems , please contact
-  author
+* if you find any errors or problems, please contact author
+  
+
 '''%(G,W)
 def info_ga():
 

@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('O S I F').center(44)
+	print ('O S I - FB').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -62,7 +62,7 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('O S I F').center(44)
+		print ('O S I - FB').center(44)
 		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
 		print ' '
 ####################################################################
@@ -73,14 +73,16 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
-    Name       OSIF 'Open Source Information Facebook'
-    CodeName   D3b2y
-    version    full version
-    Date       16/05/2018 09:35:12
-    Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Author     Mr. Cyser
+    Name       OSI-FB 'Open Source Information Facebook'
+    CodeName   ©¥$€®
+    Version    Full version
+    
+    Team       Shadow Squad
+    Email      cyser.official@gmail.com
+    Instagram  @Cyser_Inc
+
+    https://www.youtube.com/c/CyserInc
 
 * if you find any errors or problems , please contact
   author
@@ -91,25 +93,25 @@ def info_ga():
      %sCOMMAND                      DESCRIPTION%s
   -------------       -------------------------------------
 
-   get_data           fetching all friends data
-   get_info           show information about your friend
+• get_data           fetching all friends data
+• get_info           show information about your friend
 
-   dump_id            fetching all id from friend list
-   dump_phone         fetching all phone number from friend list
-   dump_mail          fetching all emails from friend list
-   dump_<id>_id       fetching all id from your friends <spesific>
-		      ex: dump_username_id
+• dump_id            fetching all id from friend list
+• dump_phone         fetching all phone number from friend list
+• dump_mail          fetching all emails from friend list
+• dump_<id>_id       fetching all id from your friends <spesific>
+		     ex: dump_username_id
 
-   token              Generate access token
-   cat_token          show your access token
-   rm_token           remove access token
+• token              Generate access token
+• cat_token          show your access token
+• rm_token           remove access token
 
-   bot                open bot menu
+• bot                open bot menu
 
-   clear              clear terminal
-   help               show help
-   about              Show information about this program
-   exit               Exit the program
+• clear              clear terminal
+• help               show help
+• about              Show information about this program
+• exit               Exit the program
 '''%(G,W)
 def menu_bot():
 	print '''
